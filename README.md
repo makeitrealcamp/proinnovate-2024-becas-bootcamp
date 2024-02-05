@@ -49,7 +49,7 @@ Tu perfil podrá ser visto por nuestra red de empresas internacionales con las q
 
 ## Como es un dia de estudio durante el programa TOP?
 
-### 1:30 en la mañana con tu Mentor Principal
+### 1:30 horas en la mañana con tu Mentor Principal
 
 Te conectas con tu mentor/a principal para resolver dudas, tener una charla técnica, o revisar los sprints de tus proyectos.
 
@@ -89,6 +89,6 @@ Tendrás misiones de desarrollo de código para reforzar tu aprendizaje de cada 
 
 ## Contacto
 
-Si quieres recibir la información de cómo aplicar a la beca, deja tus datos en [Recibir el Paso a Paso para Aplicar](Programa de Becas de Bootcamp ProInnovate 2024) , da click en RECIBIR INFORMACIÓN.
+Si quieres recibir la información de cómo aplicar a la beca, deja tus datos en [Recibir el Paso a Paso para Aplicar](https://makeitreal.camp/programa-becas-de-bootcamp-proinnovate-2024) , da click en RECIBIR INFORMACIÓN.
 
 Tines preguntas ? escríbenos a admisiones@makeitreal.camp
