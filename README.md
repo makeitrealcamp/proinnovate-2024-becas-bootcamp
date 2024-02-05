@@ -49,13 +49,13 @@ Tu perfil podrá ser visto por nuestra red de empresas internacionales con las q
 
 ## Como es un dia de estudio durante el programa TOP?
 
-### 1:30 en la mañana con tu Mentor Principal
+### 1 hora en la mañana y 1 hora en la tarde con tu Mentor/a Principal
 
 Te conectas con tu mentor/a principal para resolver dudas, tener una charla técnica, o revisar los sprints de tus proyectos.
 
 ### Trabajo grupal o individual
 
-Pueden ocurrir varias actividades en este rango de tiempo
+Cuando no estás con tu mentor/a principal, durante el resto del día, podrías tener:
 
 - Clase de habilidades blandas
 - Clase de ingles
@@ -67,9 +67,9 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Retrospectiva del spint
 - Terminar los retos o misiones que son asignados en clase
 
-### 1 hora en la tarde con Mentor Principal
+### Apoyo adicional de mentores
 
-Te conectas con tu mentor/a principal para resolver dudas, tener una charla técnica, o revisar los sprints de tus proyectos.
+Tendrás acceso a mentores de apoyo para que soporten tu aprendizaje. Harás parte de los grupos privados de estudiantes TOP de Make It Real para resolver tus dudas.
 
 ### Trabajo grupal o individual
 
@@ -89,6 +89,6 @@ Tendrás misiones de desarrollo de código para reforzar tu aprendizaje de cada 
 
 ## Contacto
 
-Si quieres recibir la información de cómo aplicar a la beca, deja tus datos en [Recibir el Paso a Paso para Aplicar](Programa de Becas de Bootcamp ProInnovate 2024) , da click en RECIBIR INFORMACIÓN.
+Si quieres recibir la información de cómo aplicar a la beca, deja tus datos en [Recibir el Paso a Paso para Aplicar](https://makeitreal.camp/programa-becas-de-bootcamp-proinnovate-2024) , da click en RECIBIR INFORMACIÓN.
 
 Tines preguntas ? escríbenos a admisiones@makeitreal.camp
