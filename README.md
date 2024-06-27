@@ -2,6 +2,10 @@
 
 Conoce los detalles del Programa de becas TOP Full Stack Developer ProInnóvate Perú 2024.
 
+## Fecha de inicio
+
+Por confirmar una vez el Consejo Directivo de ProInnóvate ratifique a los beneficiarios. La fecha estimada es mediados de agosto de 2024. 
+
 ## Quien puede participar
 
 Todos los residentes o nacionales peruanos mayores de edad. Consulta los detalles legales en bootcamps@proinnovate.gob.pe.
