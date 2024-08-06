@@ -47,6 +47,10 @@ Trabajarás con expertos de la industria en ubicación laboral para desarrollar 
 
 Tu perfil podrá ser visto por nuestra red de empresas internacionales con las que hemos desarrollado relación durante 10 años para contratar egresados de Make It Real.
 
+## Horario
+
+Debes contar con disponibilidad de 7 am a 9 am (dependiendo de tu grupo tu clase dserá de 7 a 8 o de 8 a 9) y de 6 pm a 7:30 pm para las clases en vivo, de lunes a viernes. A lo largo del día deberas desarrollar retos de programación, y proyectos individuales y grupales como si trabajaras en una empresa de tecnología.
+
 ## Como es un dia de estudio durante el programa TOP?
 
 ### 1 hora en la mañana y 1 hora en la tarde con tu Mentor/a Principal
@@ -57,8 +61,6 @@ Te conectas con tu mentor/a principal para resolver dudas, tener una charla téc
 
 Cuando no estás con tu mentor/a principal, durante el resto del día, podrías tener:
 
-- Clase de habilidades blandas
-- Clase de ingles
 - Reuniones con mentores de apoyo
 - Trabajar, codificar, en tu proyecto grupal/personal
 - Resolver dudas con los mentores.
@@ -66,6 +68,11 @@ Cuando no estás con tu mentor/a principal, durante el resto del día, podrías 
 - Demo del entregable anterior
 - Retrospectiva del spint
 - Terminar los retos o misiones que son asignados en clase
+
+Adicionalmente, una vez terminado el programa de habilidades técnicas (12 semanas), tendrás:
+
+- Clase de habilidades blandas
+- Clase de ingles
 
 ### Apoyo adicional de mentores
 
