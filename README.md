@@ -4,7 +4,7 @@ Conoce los detalles del Programa de becas TOP Full Stack Developer ProInnóvate 
 
 ## Fecha de inicio
 
-Por confirmar una vez el Consejo Directivo de ProInnóvate ratifique a los beneficiarios. La fecha estimada es mediados de agosto de 2024. 
+26 de agosto de 2024.
 
 ## Quien puede participar
 
